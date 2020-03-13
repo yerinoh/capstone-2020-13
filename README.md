@@ -8,6 +8,7 @@
   <br>
   <p align="center">
   <img align="center" height="300" src="https://user-images.githubusercontent.com/58267526/76592047-6fb49880-6535-11ea-8ae2-       12f82e09330e.png">
+
   </p>
   
 ### 2. 소개 영상
