@@ -6,7 +6,7 @@
   이러한 요구에 맞추어 현 운영되고 있는 오픈소스디자인 웹어플리케이션에 다국적 협업이 가능할 수 있는 화상회의 서비스를 추가하고자 한다.
   <br>  
   <img src="https://user-images.githubusercontent.com/58267526/76592047-6fb49880-6535-11ea-8ae2-12f82e09330e.png"
-  style="text-align:center">
+  style="text-align:center"/>
   
 ### 2. 소개 영상
 
