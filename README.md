@@ -7,6 +7,7 @@
   이러한 요구에 맞추어 현 운영되고 있는 오픈소스디자인 웹어플리케이션에 다국적 협업이 가능할 수 있는 화상회의 서비스를 개발하고자 한다.
   <br>
   <p align="center">
+  <br><br>
   <img height="300" src="./Image/opensrcdesign.png"/>
   </p>
   
