@@ -36,7 +36,7 @@
    
   We would like to develop a video conferencing service on these sites so that effective team projects can be conducted without the hassle of using other programs.   
    
-   Additionally, there are language restrictions for video conferencing with different nationalities. When the other person speaks, you can translate it into your own language and add a function to check what the other person has said. We intend to develop a video conferencing service that may enable ** multinational collaboration **.
+   Additionally, there are language restrictions for video conferencing with different nationalities. When the other person speaks, you can translate it into your own language and add a function to check what the other person has said. We intend to develop a video conferencing service that may enable **multinational collaboration**.
    
    
 
