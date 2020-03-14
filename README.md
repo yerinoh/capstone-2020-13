@@ -39,7 +39,7 @@
 <br> 
 - 박성환 
  
-<img src="./image/sunghwan.png" height=250></img>
+<img src="./Image/sunghwan.png" height=250></img>
  
   ```
  * 학번: 20141757
@@ -49,7 +49,7 @@
  <br> 
 - 구민재  
  
-<img src="./image/minjae.jpg" height=250></img>
+<img src="./Image/minjae.jpg" height=250></img>
  
   ```
  * 학번: 20153150
@@ -59,7 +59,7 @@
  <br>
  - 임지홍  
  
-<img src="./image/jihong.jpg" height=250></img>
+<img src="./Image/jihong.jpg" height=250></img>
  
   ```
  * 학번: 20153220 
