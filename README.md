@@ -1,4 +1,5 @@
 # 5G (5pensource GroupTalk)
+  <img height="250" src="./Image/5G.jpg">
 
 ## 1. 프로젝트 소개 
 **오픈소스 디자인 사이트의 다국적 화상회의 서비스 개발**
@@ -24,6 +25,22 @@
 
 
 ## 2. Abstract
+  In the process of team project development, there is a growing demand for platforms that do not have time limitations or         
+  space limitations while requiring collaboration.
+  
+  A number of video conferencing programs such as Skype and Zoom have been developed, but the overall development process of the project, such as code management, uses a different program.The efficiency is poor.
+  
+  
+   Open source design site currently in operation (https://opensrcdesign.com) is not only a simple code sharing process. It is a site that can share the overall development process of the project, such as proposals, UI designs, meeting minutes, etc. with team members.
+   
+   
+  We would like to develop a video conferencing service on these sites so that effective team projects can be conducted without the hassle of using other programs.   
+   
+   Additionally, there are language restrictions for video conferencing with different nationalities. When the other person speaks, you can translate it into your own language and add a function to check what the other person has said. We intend to develop a video conferencing service that may enable ** multinational collaboration **.
+   
+   
+
+
 
 
 ## 3. 소개 영상
