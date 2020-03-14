@@ -19,7 +19,7 @@
 
 - 김현중(조장)
  
-<img src="./Image/" height=250></img>
+<img src="./Image/hyunjoong.jpg" height=250></img>
  
  ```
  * 학번: 20153167
@@ -29,7 +29,7 @@
  <br>
 - 손진호 
  
-<img src="./Image" height=250></img>
+<img src="./Image/jinho.jpg" height=250></img>
  
   ```
  * 학번: 20141763 
@@ -39,7 +39,7 @@
 <br> 
 - 박성환 
  
-<img src="./image/" height=250></img>
+<img src="./image/sunghwan.png" height=250></img>
  
   ```
  * 학번: 20141757
@@ -49,7 +49,7 @@
  <br> 
 - 구민재  
  
-<img src="./image/" height=250></img>
+<img src="./image/minjae.jpg" height=250></img>
  
   ```
  * 학번: 20153150
@@ -59,7 +59,7 @@
  <br>
  - 임지홍  
  
-<img src="./image/" height=250></img>
+<img src="./image/jihong.jpg" height=250></img>
  
   ```
  * 학번: 20153220 
