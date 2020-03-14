@@ -32,9 +32,9 @@
 <img src="./Image" height=250></img>
  
   ```
- * 학번: 
+ * 학번: 20141763 
  * 역할: 
- * E-mail: 
+ * E-mail: fkakdzk2@kookmin.ac.kr 
  ```
 <br> 
 - 박성환 
@@ -42,9 +42,9 @@
 <img src="./image/" height=250></img>
  
   ```
- * 학번: 
+ * 학번: 20141757
  * 역할: 
- * E-mail: 
+ * E-mail: 20141757@kookmin.ac.kr
  ```
  <br> 
 - 구민재  
@@ -52,9 +52,9 @@
 <img src="./image/" height=250></img>
  
   ```
- * 학번: 
+ * 학번: 20153150
  * 역할: 
- * E-mail: 
+ * E-mail: mjn9ine@gmail.com
  ```
  <br>
  - 임지홍  
@@ -62,9 +62,9 @@
 <img src="./image/" height=250></img>
  
   ```
- * 학번: 
+ * 학번: 20153220 
  * 역할: 
- * E-mail: 
+ * E-mail: jhlim2323@kookmin.ac.kr 
  ```
  
  
