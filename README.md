@@ -19,13 +19,54 @@
 
 - 김현중(조장)
  
-<img src="./Image/height=250></img>
+<img src="./Image/" height=250></img>
  
  ```
  * 학번: 20153167
  * 역할: 
  * E-mail: a1a1a1@kookmin.ac.kr
  ```
+ <br>
+- 손진호 
+ 
+<img src="./Image" height=250></img>
+ 
+  ```
+ * 학번: 
+ * 역할: 
+ * E-mail: 
+ ```
+<br> 
+- 박성환 
+ 
+<img src="./image/" height=250></img>
+ 
+  ```
+ * 학번: 
+ * 역할: 
+ * E-mail: 
+ ```
+ <br> 
+- 구민재  
+ 
+<img src="./image/" height=250></img>
+ 
+  ```
+ * 학번: 
+ * 역할: 
+ * E-mail: 
+ ```
+ <br>
+ - 임지홍  
+ 
+<img src="./image/" height=250></img>
+ 
+  ```
+ * 학번: 
+ * 역할: 
+ * E-mail: 
+ ```
+ 
  
 
 
