@@ -51,54 +51,59 @@
 
 ## 4. 팀 소개
 
+### Professor
+  - 한광수 교수님 
 
-- 김현중(조장)
- 
+### 팀원
+
+
+- 김현중(팀장)
+
 <img src="./Image/hyunjoong.jpg" height=250></img>
  
  ```
  * 학번: 20153167
- * 역할: 
+ * 역할: 화상회의 시스템 구축(webRTC) 및 UI 개발, OSD 연동
  * E-mail: a1a1a1@kookmin.ac.kr
  ```
- <br>
+
 - 손진호 
  
 <img src="./Image/jinho.jpg" height=250></img>
  
   ```
  * 학번: 20141763 
- * 역할: 
+ * 역할: 번역서버 개발(Speech to Text 환경), OSD 연동
  * E-mail: fkakdzk2@kookmin.ac.kr 
  ```
-<br> 
+
 - 박성환 
  
 <img src="./Image/sunghwan.jpg" height=250></img>
  
   ```
  * 학번: 20141757
- * 역할: 
+ * 역할: 화상회의 시스템 구축(webRTC) 및 UI 개발, OSD 연동
  * E-mail: 20141757@kookmin.ac.kr
  ```
- <br> 
+
 - 구민재  
  
 <img src="./Image/minjae.jpg" height=250></img>
  
   ```
  * 학번: 20153150
- * 역할: 
+ * 역할: 번역서버 개발(Translate 환경), OSD 연동  
  * E-mail: mjn9ine@gmail.com
  ```
- <br>
+
  - 임지홍  
  
 <img src="./Image/jihong.jpg" height=250></img>
  
   ```
  * 학번: 20153220 
- * 역할: 
+ * 역할: 채팅서버 개발 및 로그저장(MongoDB), OSD 연동  
  * E-mail: jhlim2323@kookmin.ac.kr 
  ```
  
