@@ -103,7 +103,7 @@
  
   ```
  * 학번: 20153220 
- * 역할: 채팅서버 개발 및 로그저장(MongoDB), OSD 연동  
+ * 역할: 채팅서버 개발(MongoDB), OSD 연동  
  * E-mail: jhlim2323@kookmin.ac.kr 
  ```
  
