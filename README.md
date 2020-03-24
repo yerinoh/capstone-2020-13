@@ -1,6 +1,8 @@
 # 5G (5pensource GroupTalk)
   <img height="250" src="./Image/5G.jpg">
   팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-13/
+
+  sung test
   
   
 ## 1. 프로젝트 소개 
