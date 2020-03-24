@@ -1,5 +1,5 @@
 # 5G (5pensource GroupTalk)
-  <img height="350" src="./Image/5G.jpg">
+  <img height="300" width="600" src="./Image/5G.jpg">
   팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-13/
   
   
@@ -19,8 +19,8 @@
   기획서, UI설계서, 회의록 등등 프로젝트 전반적인 개발과정을 팀원들과 공유할수 있는 사이트이다.
   이러한 사이트에 화상회의 서비스를 개발하여 번거롭게 다른 프로그램을 이용하지 않고 효과적인 팀 프로젝트를 진행할수 있도록 하고자 한다.
   
-  <img height="150" src="./Image/opensrc.jpg">
-  
+  <img height="200" width="900" src="./Image/opensrc.jpg">
+
   추가적으로, 화상회의를 하는데 있어 서로 다른 국적을 가진 경우 언어의 제약이 존재한다.<br>
   상대방이 말할 때 자신의 언어로 번역하여 상대방이 어떤 말을 하였는지 확인할 수 있는 기능을 추가하여
   **다국적 협업**이 가능할 수 있는 화상회의 서비스를 개발하고자 한다.
