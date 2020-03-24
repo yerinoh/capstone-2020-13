@@ -1,5 +1,5 @@
 # 5G (5pensource GroupTalk)
-  <img height="250" src="./Image/5G.jpg">
+  <img height="350" src="./Image/5G.jpg">
 
 ## 1. 프로젝트 소개 
 **오픈소스 디자인 사이트의 다국적 화상회의 서비스 개발**
