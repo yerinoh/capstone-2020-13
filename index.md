@@ -1,8 +1,8 @@
 # 5G (5pensource GroupTalk)
-  <img height="250" src="./Image/5G.jpg">
+  <img height="300" width="600" src="./Image/5G.jpg">
 
 ## 1. 프로젝트 소개 
-**오픈소스 디자인 사이트의 다국적 화상회의 서비스 개발**
+**오픈소스 디자인 사이트(OSD)의 다국적 화상회의 서비스 개발**
 
 
   팀 프로젝트 개발과정에 있어 협업이 필요한 가운데 시간의 제약, 공간의 제약이 없는 플랫폼에 대한 수요가 높아지고 있다.
@@ -17,7 +17,7 @@
   기획서, UI설계서, 회의록 등등 프로젝트 전반적인 개발과정을 팀원들과 공유할수 있는 사이트이다.
   이러한 사이트에 화상회의 서비스를 개발하여 번거롭게 다른 프로그램을 이용하지 않고 효과적인 팀 프로젝트를 진행할수 있도록 하고자 한다.
   
-  <img height="150" src="./Image/opensrc.jpg">
+  <img height="200" width="900" src="./Image/opensrc.jpg">
   
   추가적으로, 화상회의를 하는데 있어 서로 다른 국적을 가진 경우 언어의 제약이 존재한다.<br>
   상대방이 말할 때 자신의 언어로 번역하여 상대방이 어떤 말을 하였는지 확인할 수 있는 기능을 추가하여
@@ -44,59 +44,66 @@
 
 
 ## 3. 소개 영상
-  추후 업로드 
+
+   - 수행 계획  영상 
+   
+   [![image](./Image/first.jpg)](https://www.youtube.com/watch?v=43OHHyTTemA)
 
 
 ## 4. 팀 소개
 
+### Professor
+- 한광수 교수님 
 
-- 김현중(조장)
+### 팀원
+
+- 김현중(팀장)
  
 <img src="./Image/hyunjoong.jpg" height="250">
  
  ```
  * 학번: 20153167
- * 역할: 
+ * 역할: 화상회의 시스템 구축(webRTC) 및 UI 개발, OSD 연동
  * E-mail: a1a1a1@kookmin.ac.kr
  ```
- <br>
+ 
 - 손진호 
  
 <img src="./Image/jinho.jpg" height="250">
  
   ```
  * 학번: 20141763 
- * 역할: 
+ * 역할: 번역서버 개발(Speech to Text 환경), OSD 연동 
  * E-mail: fkakdzk2@kookmin.ac.kr 
  ```
-<br> 
+
 - 박성환 
  
 <img src="./Image/sunghwan.jpg" height="250">
  
   ```
  * 학번: 20141757
- * 역할: 
+ * 역할: 화상회의 시스템 구축(webRTC) 및 UI 개발, OSD 연동 
  * E-mail: 20141757@kookmin.ac.kr
  ```
- <br> 
+ 
 - 구민재  
  
 <img src="./Image/minjae.jpg" height="250">
  
   ```
  * 학번: 20153150
- * 역할: 
+ * 역할: 번역서버 개발(Translate 환경), OSD 연동 
  * E-mail: mjn9ine@gmail.com
  ```
- <br>
+ 
  - 임지홍  
  
 <img src="./Image/jihong.jpg" height="250">
  
   ```
  * 학번: 20153220 
- * 역할: 
+ * 역할: 채팅서버 개발(MongoDB), OSD 연동
  * E-mail: jhlim2323@kookmin.ac.kr 
  ```
  
